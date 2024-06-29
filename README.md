@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sanda ANDRIA, I'm known as a cool geek 😎.
+- 🔭 I’m currently working on some data engineering project.
+- 🌱 I’m currently learning about DevOps practices applied to data engineering, software engineering practices and data engineering tools.
+
