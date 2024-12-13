@@ -1,64 +1,51 @@
-## Hello there 👋
+## Hey, I'm Sanda ANDRIA! 👋
 
-<!--
-**ExeioS33/ExeioS33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **passionate tech enthusiast** who loves all things **software, data engineering, and AI**. Armed with a geeky streak and a curious mind, I’m constantly exploring new technologies, optimizing complex data workflows, and crafting scalable solutions that push the boundaries of what's possible.
 
-Here are some ideas to get you started:
+**What I’m up to:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm **Sanda ANDRIA**, a passionate tech enthusiast with a deep love for software and data engineering. Known as a cool geek 😎, I thrive on solving complex problems and continuously honing my skills in the ever-evolving tech landscape.
-
-- 🔭 I’m currently working on **data engineering projects**, exploring the intersection of data pipelines, cloud technologies, and real-time processing.
-- 🌱 I’m currently diving deeper into **DevOps practices** as applied to data engineering, mastering software engineering principles, and exploring the latest tools in the data space.
-- ⚡ I’m passionate about staying up to date with best practices and emerging technologies, and I'm always eager to learn something new and push the boundaries of what's possible in tech.
+- 🔭 Currently working on **data engineering and AI projects**, blending cutting-edge machine learning models with robust, scalable data pipelines.
+- 🌱 Diving into **DevOps for data**—thinking infrastructure-as-code, CI/CD, and cloud orchestration for data-driven systems.
+- ⚡ Always learning: I stay up-to-date with emerging tech, best practices, and industry trends. If there’s a new framework, library, or tool, I’m probably already tinkering with it!
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanda-andria-702747225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanda-andria-702747225/)
 
 ---
 
-## 🛠 TOOLS & TECHNOLOGIES
+## 🛠 Tools & Technologies
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
 ### 🖥️ Languages
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-0000CC?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" height="30"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" height="30"/> 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ Databases
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/> 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Scripting
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="30"/> 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" height="30"/> 
+### 🔧 Scripting & Automation
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🛠️ Environment
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/> 
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-💻 Personal fact : I really like Linux based system so I use **Kali Linux** as my go-to operating system.
+**Fun fact:** I’m a big fan of Linux systems and frequently use **Kali Linux** for my dev adventures.
 
 ---
 
-💬 I'm always looking to connect with like-minded professionals, collaborate on exciting projects, and share insights on the latest trends in tech. Feel free to reach out if you'd like to discuss ideas or explore potential opportunities!
+**💬 Let’s talk tech!** I’m always excited to connect, brainstorm innovative ideas, and tackle new challenges. If you want to chat about data pipelines, AI models, or the latest DevOps trends, don’t hesitate to reach out.
 
 [📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanda-andria-702747225/)]
