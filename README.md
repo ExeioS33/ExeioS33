@@ -16,10 +16,10 @@ Data Engineer at **Groupe CF** — one of France's leading independent accountin
 
 I'm into fashion. I'm into fitness. And I got tired of not knowing if my outfit actually hit.
 
-So I'm building **Dripmax** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
+So I built **Dripmax** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
 
 <a href="YOUR_APP_LINK_HERE">
-  <img src="https://raw.githubusercontent.com/exeio/exeio/main/dripmax_logo.png" width="80" alt="Dripmax" />
+  <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/dripmax_logo.png" width="80" alt="Dripmax" />
 </a>
 
 It's a mobile app. It uses AI vision. It has a free tier and a Pro report. That's all you need to know for now.
