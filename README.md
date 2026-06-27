@@ -18,13 +18,27 @@ I'm into fashion. I'm into fitness. And I got tired of not knowing if my outfit 
 
 So I built **Dripmax** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
 
-<a href="YOUR_APP_LINK_HERE">
+<a href="YOUR_DRIPMAX_LINK_HERE">
   <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/dripmax_logo.png" width="80" alt="Dripmax" />
 </a>
 
 It's a mobile app. It uses AI vision. It has a free tier and a Pro report. That's all you need to know for now.
 
-**exeio Corp** is the structure behind it.
+---
+
+## exeio Corp
+
+<a href="YOUR_EXEIO_LINK_HERE">
+  <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/exeio_corp_official_logo.png" width="200" alt="exeio Corp" />
+</a>
+
+The company behind Dripmax — and what comes next.
+
+exeio Corp builds consumer apps for people who have taste. Not enterprise software. Not dashboards for procurement teams. Apps you actually want on your phone — tools for how you dress, how you move, how you live.
+
+The philosophy is simple: technology should feel like it was made for you, not sold to you. Every product we ship starts from a real personal frustration, gets obsessed over in private, and lands when it's ready.
+
+No roadmap decks. No investor sprints. Just products that earn their place in your daily life.
 
 ---
 
