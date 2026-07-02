@@ -16,7 +16,7 @@ Data Engineer at **Groupe CF** — one of France's leading independent accountin
 
 I'm into fashion. I'm into fitness. And I got tired of not knowing if my outfit actually hit.
 
-So I built **Dripmax** — an AI app that scans your outfit and scores your DRIPPPP or SWAG as some may say. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
+So I built **Dripmax** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
 
 <a href="YOUR_DRIPMAX_LINK_HERE">
   <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/dripmax_logo.png" width="80" alt="Dripmax" />
@@ -47,13 +47,18 @@ No roadmap decks. No investor sprints. Just products that earn their place in yo
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-8146FF?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 
 ---
 
