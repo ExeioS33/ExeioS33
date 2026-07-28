@@ -12,23 +12,39 @@ Data Engineer at **Groupe CF** — one of France's leading independent accountin
 
 ---
 
+## How I actually learn: I fork things
+
+I don't learn a system by reading its docs. I learn it by **forking it and maintaining it privately against requirements it was never designed for.**
+
+That's the point where a repository stops being something you've read and becomes something you understand. You find out why every decision in it was made, because you're the one paying for the ones that were wrong.
+
+- **[nanobot](https://github.com/ExeioS33/nanobot-exeio)** — forked HKUDS' agent framework and ran it as my own. Reading about an agent loop and maintaining one are different activities. The interesting problems only appear after commit 500.
+- **LightRAG** — forked and adapted a graph-RAG engine for enterprise use: running against the real requirements of an accounting group serving 26,000+ clients. Private, because the requirements are.
+- **[open-webui](https://github.com/ExeioS33/open-webui-exeio)** — same pattern, same reason.
+
+I don't send many pull requests upstream. That's a fair thing to hold against me. What I do instead is run these systems under real conditions until I know their mechanics from the inside — and then build my own products with what that taught me, or inspired by it.
+
+**Dripmax exists because of what forking taught me** about shipping AI that has to work every day, for strangers, on a phone, at a price someone agreed to pay.
+
+---
+
 ## The side of me that can't stay still
 
 I'm into fashion. I'm into fitness. And I got tired of not knowing if my outfit actually hit.
 
-So I built **Dripmax** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
+So I built **[Dripmax](https://github.com/ExeioS33/dripmax-showcase)** — an AI app that scans your outfit and scores your style. Not a mood board. Not a Pinterest clone. A real rating, with real feedback, built for people who take how they look seriously.
 
-<a href="YOUR_DRIPMAX_LINK_HERE">
+<a href="https://github.com/ExeioS33/dripmax-showcase">
   <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/dripmax_logo.png" width="80" alt="Dripmax" />
 </a>
 
-It's a mobile app. It uses AI vision. It has a free tier and a Pro report. That's all you need to know for now.
+A photo in, a 0–100 score out in under 15 seconds — across fit & silhouette, colour harmony, cohesion & intent, and details & finishing. Free tier, Pro report. React Native, Expo, Google Gemini. Built solo.
 
 ---
 
 ## exeio Corp
 
-<a href="YOUR_EXEIO_LINK_HERE">
+<a href="https://exeio.co">
   <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/exeio_corp_official_logo.png" width="200" alt="exeio Corp" />
 </a>
 
@@ -63,3 +79,4 @@ No roadmap decks. No investor sprints. Just products that earn their place in yo
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanda-andria-702747225/)
+[![exeio.co](https://img.shields.io/badge/exeio.co-000000?style=for-the-badge&logo=safari&logoColor=white)](https://exeio.co)
