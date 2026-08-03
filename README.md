@@ -44,7 +44,7 @@ A photo in, a 0–100 score out in under 15 seconds — across fit & silhouette,
 
 ## exeio Corp
 
-<a href="https://exeio.co">
+<a href="https://exeiocorp.com">
   <img src="https://raw.githubusercontent.com/ExeioS33/exeio/main/exeio_corp_official_logo.png" width="200" alt="exeio Corp" />
 </a>
 
