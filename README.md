@@ -79,4 +79,4 @@ No roadmap decks. No investor sprints. Just products that earn their place in yo
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanda-andria-702747225/)
-[![exeiocorp.com](https://img.shields.io/badge/exeio.co-000000?style=for-the-badge&logo=safari&logoColor=white)](https://exeiocorp.com/)
+[![exeiocorp.com](https://img.shields.io/badge/exeiocorp.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://exeiocorp.com/)
